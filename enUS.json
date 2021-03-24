@@ -1,8 +1,16 @@
 {
   "global": {
     "Cooldown": "<@%VAR%>, %VAR% | You cannot use the command %VAR%%VAR% for another %VAR% seconds.",
+    "NotPremium": "<@%VAR%>, %VAR% | The command %VAR%%VAR% is a premium only command. You can get access to this command by donating here: %VAR%.",
+    "WrongTier": "<@%VAR%>, %VAR% | The donation tier you currently have (%VAR%) does not have access to this command. The following tiers have access: %VAR%",
+    "NotOwner": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used by my developers.",
+    "PMOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in private messages.",
+    "GuildOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in servers.",
+    "IsNSFW": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in NSFW marked channels. (Make a channel NSFW using %VAR%ToggleNSFW.)",
     "VoteOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% requires you to vote. You can vote using (%VAR%Vote)",
-    "CMDError": "<@%VAR%>, %VAR% | An error occurred running the command %VAR%%VAR%. If this persists for more than 30 minutes, please alert the developers in the official Discord. (%VAR%About)"
+    "CMDError": "<@%VAR%>, %VAR% | An error occurred running the command %VAR%%VAR%. If this persists for more than 30 minutes, please alert the developers in the official Discord. (%VAR%About)",
+    "BotPerms": "<@%VAR%>, %VAR% | I do not have the permission %VAR% to use the command %VAR%%VAR% in this channel.",
+    "UserPerms": "<@%VAR%>, %VAR% | You do not have the permission %VAR% to use the command %VAR%%VAR% in this channel."
   },
   "administration": {},
   "anime": {
