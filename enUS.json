@@ -1,0 +1,36 @@
+{
+  "global": {
+    "Cooldown": "<@%VAR%>, %VAR% | You cannot use the command %VAR%%VAR% for another %VAR% seconds.",
+    "VoteOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% requires you to vote. You can vote using (%VAR%Vote)",
+    "CMDError": "<@%VAR%>, %VAR% | An error occurred running the command %VAR%%VAR%. If this persists for more than 30 minutes, please alert the developers in the official Discord. (%VAR%About)"
+  },
+  "administration": {},
+  "anime": {
+    "CharacterNotFound": "<@%VAR%>, %VAR% | Character not found.",
+    "ImageSourceNotFound": "<@%VAR%>, %VAR%  | Image source not found.",
+    "Links": "Links",
+    "Page": "Page"
+  },
+  "economy": {
+    "AlreadyClaimed": "<@%VAR%>, %VAR% | You have already claimed your daily allowance of %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
+    "Claimed": "<@%VAR%>, %VAR% | You claimed your daily allowance of %VAR% %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
+    "YouHave": "You have",
+    "Has": "%VAR% has",
+    "Balance": "<@%VAR%>, %VAR% | %VAR% %VAR% %VAR%"
+  },
+  "fun": {
+    "Infected": "<@%VAR%>, %VAR% people are infected with the coronavirus.",
+    "AlreadyInfected": "<@%VAR%>, %VAR% is already infected with the coronavirus.",
+    "CoughsOn": "<@%VAR%>, %VAR% %VAR% *coughs* on %VAR%."
+  },
+  "general": {},
+  "meme": {},
+  "moderation": {},
+  "music": {},
+  "nsfw": {},
+  "osu": {
+    "NoUser": "<@%VAR%>, %VAR% | osu! user not found.",
+    "NoPlay": "<@%VAR%>, %VAR% | Recent osu! standard play not found. Have you/they played a ranked map within the last 24 hours?"
+  },
+  "roleplay": {}
+}
