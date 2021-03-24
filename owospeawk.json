@@ -1,7 +1,7 @@
 {
     "global": {
       "Cooldown": "<@%VAR%>, %VAR% | You cannyot use ffe cwommand %VAR%%VAR% fow annyoffew %VAR% secwonds 3:",
-      "VoteOnly": "<@%VAR%>, %VAR% | Ffw cwommand %VAR%%VAR% wequiaws you to wote. You cyan wote using (%VAR%Vote)",
+      "VoteOnly": "<@%VAR%>, %VAR% | Ff cwommand %VAR%%VAR% wequiaws you to wote. You cyan wote using (%VAR%Vote)",
       "CMDError": "<@%VAR%>, %VAR% | An ewwow occwuwwed runnying ffe cwommand %VAR%%VAR%. If fis pewsists fow mowe than 30 minyutes, pwease alewt ffe dewelopews in ffe officiaw Discowd ;c (%VAR%About)"
     },
     "administration": {},
