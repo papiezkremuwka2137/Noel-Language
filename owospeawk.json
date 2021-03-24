@@ -1,0 +1,37 @@
+{
+    "global": {
+      "Cooldown": "<@%VAR%>, %VAR% | You cannyot use ffe cwommand %VAR%%VAR% fow annyoffew %VAR% secwonds 3:",
+      "VoteOnly": "<@%VAR%>, %VAR% | Ffw cwommand %VAR%%VAR% wequiaws you to wote. You cyan wote using (%VAR%Vote)",
+      "CMDError": "<@%VAR%>, %VAR% | An ewwow occwuwwed runnying ffe cwommand %VAR%%VAR%. If fis pewsists fow mowe than 30 minyutes, pwease alewt ffe dewelopews in ffe officiaw Discowd ;c (%VAR%About)"
+    },
+    "administration": {},
+    "anime": {
+      "CharacterNotFound": "<@%VAR%>, %VAR% | Chawacta nyot fwound.",
+      "ImageSourceNotFound": "<@%VAR%>, %VAR%  | Image souwce nyot fwound.",
+      "Links": "Links",
+      "Page": "Page"
+    },
+    "economy": {
+      "AlreadyClaimed": "<@%VAR%>, %VAR% | You hab alweady cwaimed youw daiwy awwowance of %VAR%. (Eawn extwa by woting fow Nyoel. %VAR%Vote)",
+      "Claimed": "<@%VAR%>, %VAR% | You cwaimed youw daiwy awwwowance of %VAR% %VAR%. (Eawn extwa by woting fow Nyoel. %VAR%Vote)",
+      "YouHave": "You hab",
+      "Has": "%VAR% has",
+      "Balance": "<@%VAR%>, %VAR% | %VAR% %VAR% %VAR%"
+    },
+    "fun": {
+      "Infected": "<@%VAR%>, %VAR% peopwe awe infwected wiff ffe cowonaviwus.",
+      "AlreadyInfected": "<@%VAR%>, %VAR% is alweady infwected wiff ffe cowonaviwus.",
+      "CoughsOn": "<@%VAR%>, %VAR% %VAR% *coffs* on %VAR%."
+    },
+    "general": {},
+    "meme": {},
+    "moderation": {},
+    "music": {},
+    "nsfw": {},
+    "osu": {
+      "NoUser": "<@%VAR%>, %VAR% | owsu! usew nyot fwound.",
+      "NoPlay": "<@%VAR%>, %VAR% | Wecent owsu! standawd pway nyot fwound. Hab you/ffey pwayed a wanked map wiffin ffe wast 24 houws?"
+    },
+    "roleplay": {}
+  }
+  
