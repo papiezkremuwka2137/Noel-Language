@@ -12,7 +12,17 @@
     "BotPerms": "<@%VAR%>, %VAR% | I do not have the permission %VAR% to use the command %VAR%%VAR% in this channel.",
     "UserPerms": "<@%VAR%>, %VAR% | You do not have the permission %VAR% to use the command %VAR%%VAR% in this channel."
   },
-  "administration": {},
+  "administration": {
+    "EmojiAdded": "<@%VAR%>, %VAR% | Emoji %VAR% added.",
+    "NoCMD": "<@%VAR%>, %VAR% | That command does not exist.",
+    "CantDisable": "<@%VAR%>, %VAR% | You cannot disable that command.",
+    "CMDDisabled": "<@%VAR%>, %VAR% | Command %VAR% disabled in channel %VAR%.",
+    "CMDDisabledAll": "<@%VAR%>, %VAR% | Command %VAR% disabled in all channels.",
+    "CMDEnable": "<@%VAR%>, %VAR% | Command %VAR% enabled in channel %VAR%.",
+    "NSFWSet": "<@%VAR%>, %VAR% | NSFW for channel %VAR% set to %VAR%.",
+    "LangList": "<@%VAR%>, %VAR% | You can set the language to the following: %VAR%",
+    "LangSet": "<@%VAR%>, %VAR% | Language set to %VAR%. Please remember that translations is a major work in progress and not everything is translated yet. To speed up the process, you can contribute to translations here: https://github.com/shitass420/Noel-Language."
+  },
   "anime": {
     "CharacterNotFound": "<@%VAR%>, %VAR% | Character not found.",
     "ImageSourceNotFound": "<@%VAR%>, %VAR%  | Image source not found.",
