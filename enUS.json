@@ -27,7 +27,15 @@
     "CharacterNotFound": "<@%VAR%>, %VAR% | Character not found.",
     "ImageSourceNotFound": "<@%VAR%>, %VAR%  | Image source not found.",
     "Links": "Links",
-    "Page": "Page"
+    "Page": "Page",
+    "EngTitle": "English Title",
+    "RomajiTitle": "Romaji Title",
+    "Timestamp": "Timestamp",
+    "Episode": "Episode",
+    "Season": "Season",
+    "AnimeNotFound": "<@%VAR%>, %VAR% | Anime not found.",
+    "GetNotified": "You will now receive alerts for when an episode of %VAR% is being aired in this channel.",
+    "StopNotifications": "You will no longer receive alerts for when an episode of %VAR% is being aired in this channel."
   },
   "economy": {
     "AlreadyClaimed": "<@%VAR%>, %VAR% | You have already claimed your daily allowance of %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
