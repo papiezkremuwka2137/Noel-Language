@@ -3,15 +3,15 @@
     "Cooldown": "<@%VAR%>, %VAR% | You cannot use the command %VAR%%VAR% for another %VAR% seconds.",
     "NotPremium": "<@%VAR%>, %VAR% | The command %VAR%%VAR% is a premium only command. You can get access to this command by donating here: %VAR%.",
     "WrongTier": "<@%VAR%>, %VAR% | The donation tier you currently have (%VAR%) does not have access to this command. The following tiers have access: %VAR%",
-    "NotOwner": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used by my developers.",
+    "WrongStaffTier": "<@%VAR%>, %VAR% | The staff position you currently have (%VAR%) does not have access to this command. The following positions have access: %VAR%",
+    "NotStaff": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used by my staff team.",
     "PMOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in private messages.",
     "GuildOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in servers.",
     "IsNSFW": "<@%VAR%>, %VAR% | The command %VAR%%VAR% can only be used in NSFW marked channels. (Make a channel NSFW using %VAR%ToggleNSFW.)",
-    "VoteOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% requires you to vote. You can vote using (%VAR%Vote)",
+    "VoteOnly": "<@%VAR%>, %VAR% | The command %VAR%%VAR% requires you to vote (TopGG link). You can vote using (%VAR%Vote)",
     "CMDError": "<@%VAR%>, %VAR% | An error occurred running the command %VAR%%VAR%. If this persists for more than 30 minutes, please alert the developers in the official Discord. (%VAR%About)",
     "BotPerms": "<@%VAR%>, %VAR% | I do not have the permission %VAR% to use the command %VAR%%VAR% in this channel.",
     "UserPerms": "<@%VAR%>, %VAR% | You do not have the permission %VAR% to use the command %VAR%%VAR% in this channel.",
-    "2FA": "<@%VAR%>, %VAR% | Developer commands require 2FA to use. Login using %VAR%Login",
     "ComingSoon": "<@%VAR%>, %VAR% | Coming Soon.",
     "Links": "Links",
     "ID": "ID",
@@ -50,6 +50,10 @@
     "AniList": "AniList",
     "MAL": "MAL"
   },
+  "antiraid": {
+    "FilterRemoved": "<@%VAR%>, %VAR% | Removed the filter %VAR%.",
+    "FilterAdded": "<@%VAR%>, %VAR% | Added %VAR% to the filter. It is recommended you remove the filters after a raid as it will mute anyone who sends a message that contains the filter."
+  },
   "economy": {
     "AlreadyClaimed": "<@%VAR%>, %VAR% | You have already claimed your daily allowance of %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
     "Claimed": "<@%VAR%>, %VAR% | You claimed your daily allowance of %VAR% %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
@@ -58,7 +62,9 @@
     "BegFail": "<@%VAR%>, %VAR% | You begged a random passing by and got nothing but disgust.",
     "NotEnough": "<@%VAR%>, %VAR% | You do not have enough mini saucers for this. (Earn extra by voting for Noel. %VAR%Vote)",
     "NoRod": "<@%VAR%>, %VAR% | You do not have a fishing rod. You can purchase one using %VAR%Buy 2",
+    "NoAxe": "<@%VAR%>, %VAR% | You do not have an axe. You can purchase one using %VAR%Buy 6",
     "FishCaught": "<@%VAR%>, %VAR% | You caught a %VAR% which sold for %VAR% %VAR%",
+    "WoodChopped": "<@%VAR%>, %VAR% | You chopped an %VAR% and got %VAR% logs which sold for %VAR% %VAR%",
     "NoFish": "<@%VAR%>, %VAR% | You didn't catch any fish this time.",
     "YouHave": "You have",
     "Has": "%VAR% has",
@@ -70,7 +76,8 @@
   "fun": {
     "Infected": "<@%VAR%>, %VAR% people are infected with the coronavirus.",
     "AlreadyInfected": "<@%VAR%>, %VAR% is already infected with the coronavirus.",
-    "CoughsOn": "<@%VAR%>, %VAR% %VAR% *coughs* on %VAR%."
+    "CoughsOn": "<@%VAR%>, %VAR% %VAR% *coughs* on %VAR%.",
+    "WaifuRating": "<@%VAR%>, %VAR% | %VAR% is %VAR%% waifu material."
   },
   "general": {
     "InviteBot": "<@%VAR%>, %VAR% | You can add me to a server using: %VAR%",
@@ -88,6 +95,7 @@
     "Discord": "Discord",
     "Invite": "Invite",
     "Donate": "Donate",
+    "Privacy": "Privacy",
     "Name": "Name",
     "AllMembers": "All Members",
     "OnlineMembers": "Online Members",
@@ -99,6 +107,7 @@
     "Region": "Region",
     "Roles": "Roles",
     "HighestRole": "Highest Role",
+    "GuildNSFW": "NSFW Level",
     "Emotes": "Emotes",
     "BoostTier": "Boost Tier",
     "BoostCount": "Boost Count",
@@ -141,9 +150,10 @@
   },
   "osu": {
     "NoUser": "<@%VAR%>, %VAR% | osu! user not found.",
-    "NoPlay": "<@%VAR%>, %VAR% | Recent osu! standard play not found. Have you/they played a ranked map within the last 24 hours?",
     "NameSet": "<@%VAR%>, %VAR% | osu! username set to: %VAR%.",
-    "NoPlays": "<@%VAR%>, %VAR% | Top osu! standard plays not found.",
+    "UsernameInvalid": "<@%VAR%>, %VAR% | osu! username is invalid. Username exists? Contact one of the developers in the official Discord server. (%VAR%About)",
+    "NoRecentPlay": "<@%VAR%>, %VAR% | Recent osu! standard play not found.",
+    "NoTopPlays": "<@%VAR%>, %VAR% | Top osu! standard plays not found.",
     "NoMap": "<@%VAR%>, %VAR% | Beatmap not found on the API we use."
   },
   "roleplay": {}
