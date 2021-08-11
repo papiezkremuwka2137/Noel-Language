@@ -32,11 +32,11 @@
     "CMDEnabledAllCat": "<@%VAR%>, %VAR% | Category %VAR% enabled in all channels.",
     "NSFWSet": "<@%VAR%>, %VAR% | NSFW for channel %VAR% set to %VAR%.",
     "LangList": "<@%VAR%>, %VAR% | You can set the language to the following: %VAR%",
-    "LangSet": "<@%VAR%>, %VAR% | Language set to %VAR%. Please remember that translations is a major work in progress and not everything is translated yet. To speed up the process, you can contribute to translations here: https://github.com/shitass420/Noel-Language."
+    "LangSet": "<@%VAR%>, %VAR% | Language set to %VAR%. Please remember that translations is a major work in progress and not everything is translated yet. To speed up the process, you can contribute to translations here: https://github.com/Ameliaaaaaaa/Noel-Language."
   },
   "anime": {
     "CharacterNotFound": "<@%VAR%>, %VAR% | Character not found.",
-    "ImageSourceNotFound": "<@%VAR%>, %VAR%  | Image source not found.",
+    "ImageSourceNotFound": "<@%VAR%>, %VAR% | Image source not found.",
     "AnimeNotFound": "<@%VAR%>, %VAR% | Anime not found.",
     "MangaNotFound": "<@%VAR%>, %VAR% | Manga not found.",
     "GetNotified": "You will now receive alerts for when an episode of %VAR% is being aired in this channel.",
