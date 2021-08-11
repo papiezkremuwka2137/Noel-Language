@@ -97,47 +97,35 @@
     "Owner": "Besitzer"
   },
   "leveling": {
-    "NoLevel": "<@%VAR%>, %VAR% | Level not found.",
-    "NoRewards": "<@%VAR%>, %VAR% | No level rewards set.",
-    "RewardAdded": "<@%VAR%>, %VAR% | Now giving members the role `%VAR%` when they reach level %VAR%.",
-    "RewardRemoved": "<@%VAR%>, %VAR% | No longer giving members the role `%VAR%` when they reach level %VAR%.",
-    "LevelRewards": "Level Rewards",
+    "NoLevel": "<@%VAR%>, %VAR% | Level nicht gefunden.",
+    "NoRewards": "<@%VAR%>, %VAR% | Keine Levelbelohnungen gesetzt.",
+    "RewardAdded": "<@%VAR%>, %VAR% | Mitglieder erhalten jetzt die Rolle `%VAR%`, wenn sie Level %VAR% erreichen.",
+    "RewardRemoved": "<@%VAR%>, %VAR% | Mitglieder erhalten nicht mehr die Rolle `%VAR%`, wenn sie Level %VAR% erreichen.",
+    "LevelRewards": "Levelbelohnungen",
     "Level": "**Level:** %VAR% - %VAR%",
-    "TopLevels": "%VAR% - Top 5 Highest Level Members"
+    "TopLevels": "%VAR% - Top 5 Mitglieder mit dem höchsten Level"
   },
   "meme": {},
   "moderation": {},
   "music": {
-    "NoVC": "<@%VAR%>, %VAR% | You need to be in a voice channel to toggle %VAR%.",
-    "NotPlaying": "<@%VAR%>, %VAR% | I am not currently playing anything.",
-    "NotDJ": "<@%VAR%>, %VAR% | You can toggle %VAR% if you have the DJ role.",
-    "NotDJ/Requester": "<@%VAR%>, %VAR% | You can stop the music if you have the DJ role or it is just me and you in the channel.",
-    "OptionSet": "<@%VAR%>, %VAR% | %VAR% set to %VAR%.",
-    "Stopped": "<@%VAR%>, %VAR% | Stopped.",
-    "Resumed": "<@%VAR%>, %VAR% | Resumed.",
-    "Paused": "<@%VAR%>, %VAR% | Paused."
+    "NoVC": "<@%VAR%>, %VAR% | Du musst dich in einem Sprachkanal befinden um %VAR% umzuschalten.",
+    "NotPlaying": "<@%VAR%>, %VAR% | Ich spiele derzeit keine Musik.",
+    "NotDJ": "<@%VAR%>, %VAR% | Du kannst %VAR% umschalten wenn du die DJ Rolle hast.",
+    "NotDJ/Requester": "<@%VAR%>, %VAR% | Du kannst die Musik stoppen, wenn du die DJ Rolle hast oder nur du und ich im Kanal sind.",
+    "OptionSet": "<@%VAR%>, %VAR% | %VAR% auf %VAR% gesetzt.",
+    "Stopped": "<@%VAR%>, %VAR% | Gestoppt.",
+    "Resumed": "<@%VAR%>, %VAR% | Fortgesetzt.",
+    "Paused": "<@%VAR%>, %VAR% | Pausiert."
   },
   "nsfw": {
-    "AnalTip": "**TIP:** You can give another member anal using `%VAR%%VAR% [%VAR%]`",
-    "Anal": "%VAR% *gives anal to* %VAR%",
-    "BlowjobTip": "**TIP:** You can give another member a blowjob using `%VAR%%VAR% [%VAR%]`",
-    "Blowjob": "%VAR% *sucks off* %VAR%",
-    "CumTip": "**TIP:** You can cum inside another member using `%VAR%%VAR% [%VAR%]`",
-    "Cum": "%VAR% *came inside* %VAR%",
-    "FuckTip": "**TIP:** You can fuck another member using `%VAR%%VAR% [%VAR%]`",
-    "Fuck": "%VAR% *fucks* %VAR%",
-    "PantsuTip": "**TIP:** You can show another member pantsu using `%VAR%%VAR% [%VAR%]`",
-    "Pantsu": "%VAR% *shows pantsu to* %VAR%",
-    "SpankTip": "**TIP:** You can spank another member using `%VAR%%VAR% [%VAR%]`",
-    "Spank": "%VAR% *spanks* %VAR%"
   },
   "osu": {
-    "NoUser": "<@%VAR%>, %VAR% | osu! user not found.",
-    "NameSet": "<@%VAR%>, %VAR% | osu! username set to: %VAR%.",
-    "UsernameInvalid": "<@%VAR%>, %VAR% | osu! username is invalid. Username exists? Contact one of the developers in the official Discord server. (%VAR%About)",
-    "NoRecentPlay": "<@%VAR%>, %VAR% | Recent osu! standard play not found.",
-    "NoTopPlays": "<@%VAR%>, %VAR% | Top osu! standard plays not found.",
-    "NoMap": "<@%VAR%>, %VAR% | Beatmap not found on the API we use."
+    "NoUser": "<@%VAR%>, %VAR% | osu! Spieler nicht gefunden.",
+    "NameSet": "<@%VAR%>, %VAR% | osu! Spielername zu %VAR% geändert.",
+    "UsernameInvalid": "<@%VAR%>, %VAR% | osu! Spielername ist ungültig. Existiert der Spielername? Kontaktiere einen Entwickler im offiziellen Discord. (%VAR%About)",
+    "NoRecentPlay": "<@%VAR%>, %VAR% | Neuestes osu! standard spiel nicht gefunden",
+    "NoTopPlays": "<@%VAR%>, %VAR% | Beste osu! standard spiele nicht gefunden.",
+    "NoMap": "<@%VAR%>, %VAR% | Beatmap konnte nicht gefunden werden."
   },
   "roleplay": {}
 }
