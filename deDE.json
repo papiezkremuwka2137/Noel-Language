@@ -51,8 +51,8 @@
     "MAL": "MAL"
   },
   "antiraid": {
-    "FilterRemoved": "<@%VAR%>, %VAR% | Removed the filter %VAR%.",
-    "FilterAdded": "<@%VAR%>, %VAR% | Added %VAR% to the filter. It is recommended you remove the filters after a raid as it will mute anyone who sends a message that contains the filter."
+    "FilterRemoved": "<@%VAR%>, %VAR% | Filter %VAR% entfernt.",
+    "FilterAdded": "<@%VAR%>, %VAR% | Filter %VAR% hinzugefügt. Es wird empfohlen, die Filter nach einem Raid zu entfernen, da sie jeden permanent stumm schalten, der eine Nachricht sendet, die den Filter enthält."
   },
   "economy": {
     "AlreadyClaimed": "<@%VAR%>, %VAR% | You have already claimed your daily allowance of %VAR%. (Earn extra by voting for Noel. %VAR%Vote)",
