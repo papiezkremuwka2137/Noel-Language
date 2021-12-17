@@ -8,7 +8,7 @@
     "PMOnly": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in Privatnachrichten verwendet werden.",
     "GuildOnly": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in einem Server verwendet werden.",
     "IsNSFW": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in einem NSFW-Kanal verwendet werden. (Mach einen Kanal NSFW mit %VAR%ToggleNSFW.)",
-    "VoteOnly": "<@%VAR%>, %VAR% | Für den Befehl %VAR%%VAR% musst du voten (TopGG-Link). Du kannst voten mit (%VAR%Vote) oder spenden Sie, um alle stimmgesperrten Befehle mit (% VAR% Donate) zu umgehen.",
+    "VoteOnly": "<@%VAR%>, %VAR% | Für den Befehl %VAR%%VAR% musst du voten (TopGG-Link). Du kannst voten mit (%VAR%Vote) oder spenden Sie, um alle stimmgesperrten Befehle mit (%VAR% Donate) zu umgehen.",
     "CMDError": "<@%VAR%>, %VAR% | Bei der Ausführung des Befehls %VAR%%VAR% ist ein Fehler aufgetreten. Wenn dieser Fehler länger als 30 Minuten anhält, benachrichtige bitte die Entwickler im offiziellen Discord. (%VAR%About)",
     "BotPerms": "<@%VAR%>, %VAR% | Ich habe nicht die Berechtigung %VAR% um den Befehl %VAR%%VAR% in diesem Kanal auszuführen.",
     "UserPerms": "<@%VAR%>, %VAR% | Du hast nicht die Berechtigung %VAR% um den Befehl %VAR%%VAR% in diesem Kanal ausführen zu können.",
