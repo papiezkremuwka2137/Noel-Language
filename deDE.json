@@ -8,7 +8,7 @@
     "PMOnly": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in Privatnachrichten verwendet werden.",
     "GuildOnly": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in einem Server verwendet werden.",
     "IsNSFW": "<@%VAR%>, %VAR% | Der Befehl %VAR%%VAR% kann nur in einem NSFW-Kanal verwendet werden. (Mach einen Kanal NSFW mit %VAR%ToggleNSFW.)",
-    "VoteOnly": "<@%VAR%>, %VAR% | Für den Befehl %VAR%%VAR% musst du voten (TopGG-Link). Du kannst voten mit (%VAR%Vote)",
+    "VoteOnly": "<@%VAR%>, %VAR% | Für den Befehl %VAR%%VAR% musst du voten (TopGG-Link). Du kannst voten mit (%VAR%Vote) oder spenden Sie, um alle stimmgesperrten Befehle mit (% VAR% Donate) zu umgehen.",
     "CMDError": "<@%VAR%>, %VAR% | Bei der Ausführung des Befehls %VAR%%VAR% ist ein Fehler aufgetreten. Wenn dieser Fehler länger als 30 Minuten anhält, benachrichtige bitte die Entwickler im offiziellen Discord. (%VAR%About)",
     "BotPerms": "<@%VAR%>, %VAR% | Ich habe nicht die Berechtigung %VAR% um den Befehl %VAR%%VAR% in diesem Kanal auszuführen.",
     "UserPerms": "<@%VAR%>, %VAR% | Du hast nicht die Berechtigung %VAR% um den Befehl %VAR%%VAR% in diesem Kanal ausführen zu können.",
@@ -31,8 +31,7 @@
     "CMDEnabledAll": "<@%VAR%>, %VAR% | Der Befehl %VAR% wurde in allen Kanälen aktiviert.",
     "CMDEnabledAllCat": "<@%VAR%>, %VAR% | Die Kategorie %VAR% wurde in allen Kanälen aktiviert.",
     "NSFWSet": "<@%VAR%>, %VAR% | NSFW für Kanal %VAR% zu %VAR% geändert.",
-    "LangList": "<@%VAR%>, %VAR% | Du kannst die Sprache zu folgendem ändern: %VAR%",
-    "LangSet": "<@%VAR%>, %VAR% | Sprache zu %VAR% geändert. Bitte denk daran, dass die Übersetzungen noch in Arbeit sind und noch nicht alles übersetzt ist. Um den Prozess zu beschleunigen, kannst du hier zu den Übersetzungen beitragen: https://github.com/Ameliaaaaaaa/Noel-Language."
+    "LangList": "<@%VAR%>, %VAR% | Sie können die Sprache einstellen, indem Sie eine der folgenden Optionen im Chat eingeben: %VAR%"
   },
   "anime": {
     "CharacterNotFound": "<@%VAR%>, %VAR% | Charakter nicht gefunden.",
@@ -54,12 +53,8 @@
     "FilterRemoved": "<@%VAR%>, %VAR% | Filter %VAR% entfernt.",
     "FilterAdded": "<@%VAR%>, %VAR% | Filter %VAR% hinzugefügt. Es wird empfohlen, die Filter nach einem Raid zu entfernen, da sie jeden permanent stumm schalten, der eine Nachricht sendet, die den Filter enthält."
   },
-  "economy": {
-  },
+  "economy": {},
   "fun": {
-    "Infected": "<@%VAR%>, %VAR% Menschen sind am Coronavirus erkrankt.",
-    "AlreadyInfected": "<@%VAR%>, %VAR% ist bereits mit dem Coronavirus infiziert.",
-    "CoughsOn": "<@%VAR%>, %VAR% %VAR% *hustet* %VAR% an.",
     "WaifuRating": "<@%VAR%>, %VAR% | %VAR% ist %VAR%% waifu material."
   },
   "general": {
@@ -117,8 +112,7 @@
     "Resumed": "<@%VAR%>, %VAR% | Fortgesetzt.",
     "Paused": "<@%VAR%>, %VAR% | Pausiert."
   },
-  "nsfw": {
-  },
+  "nsfw": {},
   "osu": {
     "NoUser": "<@%VAR%>, %VAR% | osu! Spieler nicht gefunden.",
     "NameSet": "<@%VAR%>, %VAR% | osu! Spielername zu %VAR% geändert.",
